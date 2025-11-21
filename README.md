@@ -7,6 +7,7 @@ I’m a web developer focused on building clean, functional, and lightweight app
 ### Connect with me
 ![https://instagram.com/manzissss](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
+### Github stats
 
 ![Manzis's GitHub stats](https://github-readme-stats.vercel.app/api?username=manzis-labs&theme=react&show_icons=true)
 
