@@ -1,4 +1,6 @@
 ## Hi there 👋
+## About Me
+I’m a web developer focused on building clean, functional, and lightweight applications using modern web technologies.
 
 <!--
 **manzis-labs/manzis-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning JavaScript
